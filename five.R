@@ -1,3 +1,12 @@
+#5.A) CORRELATION AND COVARIANCE
+# Find the correlation matrix.
+#  Plot the correlation plot on dataset and visualize giving an overview of relationships among data on iris data.
+#  Analysis of covariance: variance (ANOVA), if data have categorical variables on iris data
+# B) Finding deviation between dataset and plot linear regression for the dataset ( e.g.  customer_churn).
+
+
+
+
 # Load required libraries
 install.packages("corrplot")  # Install corrplot package if not already installed
 library(corrplot)
