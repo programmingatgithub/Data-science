@@ -1,3 +1,6 @@
+#a. Write an R script to find basic descriptive statistics using summary, str, quartile , Mean, Median, Mode function on mtcars & cars datasets
+#b. Write an R script to find subset of dataset by using subset (), aggregate () functions on iris dataset.
+
 # a. Descriptive statistics on mtcars & cars datasets
 
 # Summary and structure
