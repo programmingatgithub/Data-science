@@ -1,3 +1,9 @@
+#R AS CALCULATOR APPLICATION
+
+#a. Using with and without R objects on console 
+#b. Using mathematical functions on console
+#c. Write an R script, to create R objects for calculator application and save in a specified location in disk
+
 # Direct calculation on console without objects
 5 + 3
 10 * 2
