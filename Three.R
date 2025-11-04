@@ -1,4 +1,6 @@
-
+#3.a.    Select and download of Two datasets from different domains
+#  b.    Reading different types of data sets (.txt, .csv) from web and disk and writing in file in specific disk location.
+#  c.     Reading Excel and XML data sheet in R.
 
 # a. Reading CSV datasets from disk
 white_wine <- read.csv("/Users/mayankverma/Downloads/wine+quality/winequality-white.csv", header = TRUE, sep = ";")
