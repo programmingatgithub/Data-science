@@ -1,3 +1,8 @@
+#4.a.    Find the data distributions using box and scatter plot.
+#  b.  Find the outliers using plot.
+#  c.  Plot the histogram, bar chart and pie chart on sample data
+
+
 # Load necessary libraries
 library(ggplot2)
 library(readxl)  # for Excel reading example
